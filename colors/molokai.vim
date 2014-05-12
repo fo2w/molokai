@@ -160,7 +160,7 @@ if &t_Co > 255
    hi DiffDelete      ctermfg=162 ctermbg=53
    hi DiffText                    ctermbg=102 cterm=bold
 
-   hi Directory       ctermfg=118               cterm=bold
+   hi Directory       ctermfg=96               cterm=bold
    hi Error           ctermfg=219 ctermbg=89
    hi ErrorMsg        ctermfg=199 ctermbg=16    cterm=bold
    hi Exception       ctermfg=118               cterm=bold
@@ -183,8 +183,8 @@ if &t_Co > 255
    hi Operator        ctermfg=161
 
    " complete menu
-   hi Pmenu           ctermfg=81  ctermbg=16
-   hi PmenuSel        ctermfg=255 ctermbg=242
+   hi Pmenu           ctermfg=130  ctermbg=235
+   hi PmenuSel        ctermfg=255 ctermbg=53
    hi PmenuSbar                   ctermbg=232
    hi PmenuThumb      ctermfg=81
 
